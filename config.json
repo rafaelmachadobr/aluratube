@@ -1,0 +1,118 @@
+{
+  "name": "Rafael Machado",
+  "job": "Desenvolvedor Front-End Júnior",
+  "github": "rafaelmachadobr",
+  "playlists": {
+    "esportes": [
+      {
+        "title": "ARGENTINA 3 (4) X (2) 3 FRANÇA | MELHORES MOMENTOS | FINAL | COPA DO MUNDO 2022",
+        "url": "https://www.youtube.com/watch?v=xa7lT_vzzLM",
+        "thumb": "https://img.youtube.com/vi/xa7lT_vzzLM/hqdefault.jpg"
+      },
+      {
+        "title": "COMO FOI A FINAL DA LIBERTADORES! Resumo de como o Palmeiras derrotou o Flamengo e conquistou o tri",
+        "url": "https://www.youtube.com/watch?v=urkuHAqwgFc",
+        "thumb": "https://img.youtube.com/vi/urkuHAqwgFc/hqdefault.jpg"
+      },
+      {
+        "title": "LUUUUCAAAAS! Ajax 2 x 3 Tottenham - Melhores Momentos - Semifinal da Champions League 2018/2019",
+        "url": "https://www.youtube.com/watch?v=a8Ris2rWkIw",
+        "thumb": "https://img.youtube.com/vi/a8Ris2rWkIw/hqdefault.jpg"
+      },
+      {
+        "title": "Melhores Momentos - Barcelona 6 x 1 PSG - Champions League (08/03/2017)",
+        "url": "https://www.youtube.com/watch?v=NtkZVru6_No",
+        "thumb": "https://img.youtube.com/vi/NtkZVru6_No/hqdefault.jpg"
+      },
+      {
+        "title": "Brasil 3 x 1 Peru - O DIA EM QUE A SELEÇÃO SE TORNOU 9 X CAMPEÃ DA COPA AMÉRICA NO MARACANÃ LOTADO",
+        "url": "https://www.youtube.com/watch?v=w2aJtWZ4-aA",
+        "thumb": "https://img.youtube.com/vi/w2aJtWZ4-aA/hqdefault.jpg"
+      },
+      {
+        "title": "PALMEIRAS 4 x 0 SÃO PAULO | MELHORES MOMENTOS | FINAL PAULISTA 2022 | ge.globo",
+        "url": "https://www.youtube.com/watch?v=PnS6WR3II1o",
+        "thumb": "https://img.youtube.com/vi/PnS6WR3II1o/hqdefault.jpg"
+      },
+      {
+        "title": "TOP-30 GOLS MAIS BONITOS BRASILEIRÃO 2022 | Listas | ge.globo",
+        "url": "https://www.youtube.com/watch?v=Q09q8LbJIo8",
+        "thumb": "https://img.youtube.com/vi/Q09q8LbJIo8/hqdefault.jpg"
+      }
+    ],
+    "jogos": [
+      {
+        "title": "alanzoka jogando Among Us com os amigos no mapa novo",
+        "url": "https://www.youtube.com/watch?v=EfzFCyPFCvg&t",
+        "thumb": "https://img.youtube.com/vi/EfzFCyPFCvg/hqdefault.jpg"
+      },
+      {
+        "title": "alanzoka jogando Pro Soccer Online com os amigos",
+        "url": "https://www.youtube.com/watch?v=IQtozBOa9eQ",
+        "thumb": "https://img.youtube.com/vi/IQtozBOa9eQ/hqdefault.jpg"
+      },
+      {
+        "title": "GOKU BRABO! - Dragon Ball Z Kakarot",
+        "url": "https://www.youtube.com/watch?v=-YyjmGIz6d8",
+        "thumb": "https://img.youtube.com/vi/-YyjmGIz6d8/hqdefault.jpg"
+      },
+      {
+        "title": "O INTANKÁVEL GARTIC PHONE DA COPA",
+        "url": "https://www.youtube.com/watch?v=90E5hX9_fUU",
+        "thumb": "https://img.youtube.com/vi/90E5hX9_fUU/hqdefault.jpg"
+      },
+      {
+        "title": "GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
+        "url": "https://www.youtube.com/watch?v=6fNUO23I_BA",
+        "thumb": "https://img.youtube.com/vi/6fNUO23I_BA/hqdefault.jpg"
+      },
+      {
+        "title": "Qual foi o MELHOR JOGO do ANO? Evento The Game Awards 2022",
+        "url": "https://www.youtube.com/watch?v=0xRBl-Jzt_M",
+        "thumb": "https://img.youtube.com/vi/0xRBl-Jzt_M/hqdefault.jpg"
+      },
+      {
+        "title": "GTA V PC - Kratos, Ben10, Pokémon e Mais (MODS)",
+        "url": "https://www.youtube.com/watch?v=KH7kRu7Iw90",
+        "thumb": "https://img.youtube.com/vi/KH7kRu7Iw90/hqdefault.jpg"
+      }
+    ],
+    "tecnologia": [
+      {
+        "title": "Cálculo de sub-rede TCP/IPv4",
+        "url": "https://www.youtube.com/watch?v=GGmhv1Wz6fc",
+        "thumb": "https://img.youtube.com/vi/GGmhv1Wz6fc/hqdefault.jpg"
+      },
+      {
+        "title": "Configurando o VS Code para Python",
+        "url": "https://www.youtube.com/watch?v=ZQ60SJDACuc&t",
+        "thumb": "https://img.youtube.com/vi/ZQ60SJDACuc/hqdefault.jpg"
+      },
+      {
+        "title": "TUDO que você deve estudar de JavaScript antes do React",
+        "url": "https://www.youtube.com/watch?v=37SwqREHRGI&t",
+        "thumb": "https://img.youtube.com/vi/37SwqREHRGI/hqdefault.jpg"
+      },
+      {
+        "title": "O QUE É FRONT-END E BACK-END???",
+        "url": "https://www.youtube.com/watch?v=Em0R3csNMVE",
+        "thumb": "https://img.youtube.com/vi/Em0R3csNMVE/hqdefault.jpg"
+      },
+      {
+        "title": "Não sabe escolher entre FRONT-END vs BACK-END? Veja este video",
+        "url": "https://www.youtube.com/watch?v=vFSNUmw32t0",
+        "thumb": "https://img.youtube.com/vi/vFSNUmw32t0/hqdefault.jpg"
+      },
+      {
+        "title": "React JS // Dicionário do Programador",
+        "url": "https://www.youtube.com/watch?v=NhUr8cwDiiM",
+        "thumb": "https://img.youtube.com/vi/NhUr8cwDiiM/hqdefault.jpg"
+      },
+      {
+        "title": "Docker do Zero a Produção",
+        "url": "https://www.youtube.com/watch?v=62jN36WLBLk",
+        "thumb": "https://img.youtube.com/vi/62jN36WLBLk/hqdefault.jpg"
+      }
+    ]
+  }
+}
