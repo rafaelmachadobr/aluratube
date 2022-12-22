@@ -43,7 +43,7 @@ export default function Search({ valorDoFiltro, setValorDoFiltro }) {
         type="text"
         onChange={(e) => setValorDaBusca(e.target.value)}
         value={valorDaBusca}
-        placeholder="Buscar..."
+        placeholder="Pesquisar"
       />
       <button>🔎</button>
     </StyledSearch>
